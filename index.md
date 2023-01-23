@@ -1,123 +1,25 @@
+## Portfolio
+
 ---
-layout: default
+
+## Water Data Analysis Projects
+
+[Analyzing Freshwater usage in US States by Sector in 2015](/assets/Adam_Guerra_Lab_05.html)
+
+Description: Imported data from USGS, cleaned and manipulated the data for plotting, created one figure to look at states sector breakdowns, and another figure to look at ground vs surface withdrawals.
+
+<img src="assets/img/lab_5_1.png"> <img src="assets/img/lab_5_2.png">
+
 ---
+[Creating a Timeseries of US Freshwater Usage from 1950 to 2015 by Sector](/assets/Adam_Guerra_lab_07.html)
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Description:  Imported data from USGS, cleaned and manipulated data for plotting, created a time series of the manipulated data.
 
-[Link to another page](./another-page.html).
+<img src="assets/img/lab_7_1.png">
 
-There should be whitespace between paragraphs.
+---
+[Analyzing Freshwater Usage for All Nations in 2019 by HDI](/assets/Adam_Guerra_final_project.html)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Description: Imported Data from FAO AQUASTAT, cleaned and manipulated data for plotting, made one figure arranged by HDI of all nations with availible data, and made another figure comparing the lowest HDI nation to the highest HDI by sector.
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<img src="assets/img/lab_8_1.png">
