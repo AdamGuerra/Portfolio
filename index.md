@@ -11,7 +11,7 @@ Description: Imported data from USGS, cleaned and manipulated the data for plott
 <img src="assets/img/lab_5_1.png"> <img src="assets/img/lab_5_2.png">
 
 ---
-[Creating a Timeseries of US Freshwater Usage from 1950 to 2015 by Sector](<a href="Adam_Guerra_lab_07.html"></a>)
+[Creating a Timeseries of US Freshwater Usage from 1950 to 2015 by Sector](<a href="Adam_Guerra_lab_07.html">)
 
 Description:  Imported data from USGS, cleaned and manipulated data for plotting, created a time series of the manipulated data.
 
