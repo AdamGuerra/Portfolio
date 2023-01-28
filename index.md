@@ -4,7 +4,7 @@
 
 ## Water Data Analysis Projects
 
-[Analyzing Freshwater usage in US States by Sector in 2015](/Adam_Guerra_Lab_05.html)
+<a href="Adam_Guerra_Lab_05.html"> Analyzing Freshwater usage in US States by Sector in 2015</a>
 
 Description: Imported data from USGS, cleaned and manipulated the data for plotting, created one figure to look at states sector breakdowns, and another figure to look at ground vs surface withdrawals.
 
