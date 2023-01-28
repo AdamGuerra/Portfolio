@@ -23,3 +23,7 @@ Description:  Imported data from USGS, cleaned and manipulated data for plotting
 Description: Imported Data from FAO AQUASTAT, cleaned and manipulated data for plotting, made one figure arranged by HDI of all nations with availible data, and made another figure comparing the lowest HDI nation to the highest HDI by sector.
 
 <img src="assets/img/lab_8_1.png"> <img src="assets/img/lab_8_2.png">
+
+## Biometry Projects
+
+Coming Soon...
