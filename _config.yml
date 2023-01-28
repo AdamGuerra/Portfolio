@@ -5,7 +5,7 @@ description: >
   <br><br>
   <a href="https://www.linkedin.com/in/adamguerra01/">LinkedIn Profile</a>
   <br><br>
-  <a href="https://github.com/AdamGuerra/Portfolio/blob/main/Resume.pdf" Resume Download<a/>
+  <a href="Resume.pdf"> Resume Download<a/>
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
