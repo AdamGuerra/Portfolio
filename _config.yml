@@ -7,9 +7,9 @@ description: >
   <br><br>
   <a href="Resume.pdf"> Resume Download<a/>
   <br><br>
-  Copies of HTML of project code available upon request.
+  <p>Email: AdamGuerra01@gmail.com</p>
   <br><br>
-  Email: AdamGuerra01@gmail.com
+  <small>Copies of HTML of code available upon request.</small>
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
