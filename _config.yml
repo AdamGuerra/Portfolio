@@ -11,3 +11,5 @@ description: >
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+plugins:
+  - jerkyll-relative-links
