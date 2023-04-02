@@ -1,7 +1,5 @@
 # Portfolio
 
----
-
 ## Water Data Analysis Projects
 
 [Analyzing Freshwater usage in US States by Sector in 2015](/2015_sector_water.html)
@@ -26,4 +24,4 @@ Description: A statistical analysis of how different classifications of communit
 
 ## Energy Sector Analysis
 
-[Analyzing the United States Energy Sector Renewable Transition in Relation to 2050 Goals](/energy_sector.html)
+[Analyzing the United States Energy Sector Renewable Transition in Relation to 2050 Goals](/energy_sector_project.html)
