@@ -31,4 +31,4 @@ Description: A statistical analysis of how different classifications of communit
 
 #### [Analyzing the United States Energy Sector Renewable Transition in Relation to 2050 Goals](/energy_sector_project.html)
 
-Desciption: I performed an analysis on the current state of the energy sector and how our historical trends will predict if we will reach the 2050 renewable energy goals we have set. This document contains all of the data cleaning, conversion for uses in other softwares and creation of figures used in the report. The final report is linked [here](/Energy_Sector_Analysis.pdf).
+Desciption: I performed an analysis on the current state of the energy sector and how our historical trends will predict if we will reach the 2050 renewable energy goals we have set. This document contains all of the data cleaning, conversion for uses in other softwares and creation of figures used in the report. The final report is linked <a href = "Energy_Sector_Analysis.pdf"> here </a>.
